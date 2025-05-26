@@ -27,7 +27,7 @@ This is a RESTful backend API for a basic social media application built using *
 - **Pydantic** - Data validation
 - **Passlib** - Password hashing
 - **JWT (JSON Web Tokens)** - Authentication
-- **Alembic** - Database migrations (if used)
+- **Alembic** - Database migrations 
 
 ## API Endpoints Overview
 
@@ -65,5 +65,5 @@ This is a RESTful backend API for a basic social media application built using *
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/social-media-fastapi.git
-cd social-media-fastapi
+git clone https://https://github.com/Luytheti/SocialMedia_Backend.git
+cd SocialMedia_Backend
